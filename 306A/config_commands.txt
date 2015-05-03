@@ -1,0 +1,22 @@
+#Reset Tracker
+Begin123456
+#Set Timezone
+Time zone123456 3
+#Set APN to internet
+apn123456 internet
+#Set ADMIN Server IP Address
+adminip123456 46.101.156.102 31272
+#Change GPRS to UDP Mode for OpenGTS
+gprs123456,0,1
+#Enable Shock Sensor
+sleep123456 shock 
+#Report Every 30 Secs
+fix030s***n123456
+#Suppress GPS Drift
+suppress123456
+#Use Less GPRS
+less gprs123456 on
+#Check Tracker Status 
+Check123456
+#Check OBD Status
+Obdmsg123456
